@@ -63,17 +63,17 @@ python3 imc_web.py
 
 ### Versão Terminal
 - **Python 3.8+**
-- **Type Hints** para melhor legibilidade
-- **Tratamento de exceções** robusto
-- **Validação de entrada** rigorosa
+- **Type Hints** 
+- **Tratamento de exceções** 
+- **Validação de entrada** 
 
 ### Versão Web
 - **Python 3.8+**
-- **Flask** - Framework web
-- **Bootstrap 5** - Framework CSS
-- **Font Awesome** - Ícones
-- **JavaScript** - Interatividade
-- **AJAX** - Comunicação assíncrona
+- **Flask** 
+- **Bootstrap 5** 
+- **Font Awesome** 
+- **JavaScript** 
+- **AJAX** 
 
 ## 📁 Estrutura do Projeto
 
@@ -109,49 +109,6 @@ python3 imc_web.py
 ```
 Depois acesse: http://localhost:5000
 
-## 🎯 Exemplos de Uso
-
-### Versão Terminal
-```
-📏 Digite seu peso em kg: 70.5
-📐 Digite sua altura em metros (ex: 1.75): 1.75
-
-📊 RESULTADO DO SEU IMC
-🎯 Seu IMC é: 23.02
-📋 Classificação: Peso normal
-💡 Recomendação: Parabéns! Mantenha seus hábitos saudáveis
-```
-
-### Versão Web
-- Interface gráfica intuitiva
-- Cálculo instantâneo
-- Resultados visuais com cores
-- Responsiva para mobile
-
-## 🧪 Validações Implementadas
-
-- **Peso:** Entre 1kg e 500kg
-- **Altura:** Entre 0.5m e 3.0m
-- **Formato:** Aceita vírgula e ponto decimal
-- **Tratamento de erros:** Mensagens claras e úteis
-
-## 🎨 Características do Design
-
-### Versão Web
-- **Gradientes modernos** para visual atrativo
-- **Animações suaves** para melhor UX
-- **Cores semânticas** para classificação do IMC
-- **Responsividade** para todos os dispositivos
-- **Ícones Font Awesome** para melhor comunicação visual
-
-## 📈 Melhorias Futuras
-
-- [ ] Histórico de cálculos
-- [ ] Gráficos de evolução
-- [ ] Integração com APIs de saúde
-- [ ] Versão mobile app
-- [ ] Exportação de relatórios
-
 ## 👩‍💻 Desenvolvedora
 
 **Thais Maximiana**
@@ -163,5 +120,3 @@ Depois acesse: http://localhost:5000
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
 ---
-
-💡 **Dica:** Para melhores resultados, use a versão web em dispositivos com tela maior, e a versão terminal para automação ou uso em servidores.
